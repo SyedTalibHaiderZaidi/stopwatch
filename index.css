@@ -1,0 +1,13 @@
+h1 
+{
+text-align: center;
+}
+#sw{ display:flex;
+
+    justify-content: center;
+
+}
+#bu
+{ display: flex;
+    justify-content: center;
+}
